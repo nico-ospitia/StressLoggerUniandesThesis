@@ -24,9 +24,11 @@ This project is a low-cost smartphone accessory designed to monitor acute stress
 * firmware/
 * android-app/
 * pcb/
-* enclosure-3d/
+* docs
+* enclosure_3d/
 * docs/
-* data/
+* questionnaires
+* raw_data/
 
 ## Author
 
