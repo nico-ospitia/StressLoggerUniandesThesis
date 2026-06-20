@@ -5,7 +5,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="pcb/PCB_TOP.png">
-    <img src="pcb/PCB_TOP.png" width="300">
+    <img src="pcb/PCB_TOP.png" width="200">
   </a>
 </p>
 ## Overview
