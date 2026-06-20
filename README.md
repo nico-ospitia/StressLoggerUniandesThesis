@@ -1,5 +1,5 @@
 # Stress Logger – Smartphone-Based Acute Stress Monitoring System
-![Project Explosive Diagram]("enclosure_3d/Estructura.png")
+<img src="docs/images/prototype.jpg" width="500">
 ## Overview
 
 This project is a low-cost smartphone accessory designed to monitor acute stress using physiological signals.
