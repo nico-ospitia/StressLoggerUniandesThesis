@@ -3,6 +3,10 @@
   <a href="enclosure_3d/Estructura.png">
     <img src="enclosure_3d/Estructura.png" width="300">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="enclosure_3d/PCB.png">
+    <img src="enclosure_3d/PCB.png" width="300">
+  </a>
 </p>
 ## Overview
 
