@@ -10,7 +10,7 @@
     <img src="enclosure_3d/Estructura.png" width="200">
   </a>
 
-  <td width="40"></td>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="pcb/PCB_TOP.png">
     <img src="pcb/VistaSuperiorPCB.png" width="190">
