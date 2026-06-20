@@ -1,11 +1,15 @@
 # Stress Logger – Smartphone-Based Acute Stress Monitoring System
 <p align="center">
-  <a href="enclosure_3d/Estructura.png">
-    <img src="enclosure_3d/Estructura.png" width="300">
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="pcb/PCB_TOP.png">
-    <img src="pcb/PCB_TOP.png" width="250">
+    <img src="pcb/PCB_TOP.png" width="200">
+  </a>
+  
+  <a href="enclosure_3d/Estructura.png">
+    <img src="enclosure_3d/Estructura.png" width="200">
+  </a>
+  
+  <a href="pcb/PCB_TOP.png">
+    <img src="pcb/VistaSuperiorPCB" width="200">
   </a>
 </p>
 ## Overview
