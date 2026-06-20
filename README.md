@@ -4,7 +4,7 @@
     <img src="pcb/PCB_TOP.png" width="180">
   </a>
   
-  <td width="40"></td>
+  <td width="100"></td>
   
   <a href="enclosure_3d/Estructura.png">
     <img src="enclosure_3d/Estructura.png" width="200">
