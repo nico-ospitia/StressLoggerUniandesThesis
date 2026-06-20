@@ -9,7 +9,7 @@
   </a>
   
   <a href="pcb/PCB_TOP.png">
-    <img src="pcb/VistaSuperiorPCB" width="200">
+    <img src="pcb/VistaSuperiorPCB.png" width="200">
   </a>
 </p>
 ## Overview
