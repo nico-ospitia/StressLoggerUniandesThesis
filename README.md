@@ -4,14 +4,14 @@
     <img src="pcb/PCB_TOP.png" width="180">
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="enclosure_3d/Estructura.png">
     <img src="enclosure_3d/Estructura.png" width="200">
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="pcb/VistaSuperiorPCB.png">
     <img src="pcb/VistaSuperiorPCB.png" width="190">
   </a>
